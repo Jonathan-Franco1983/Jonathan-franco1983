@@ -6,6 +6,11 @@ Atualmente, estou me aprimorando em análise de dados e back-end através de boo
 
 Meu objetivo é sempre buscar por desafios que me permitam crescer profissionalmente e pessoalmente, enquanto ajudo a tornar a tecnologia mais acessível e eficiente para todos. Estou comprometido em estar sempre atualizado com as últimas tendências e tecnologias para fornecer as melhores soluções aos meus clientes.
 
+Últimos videos no youtube:
+
+Projeto Anna Bella
+https://www.youtube.com/watch?v=GTyIEyXpSa8&t=1084s
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jjonathanfranco/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jjonathan.franco/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-franco-87302b203/)
