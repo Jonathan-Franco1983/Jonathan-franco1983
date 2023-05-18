@@ -16,7 +16,12 @@ https://www.youtube.com/watch?v=GTyIEyXpSa8&t=1084s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-franco-87302b203/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@newoldgamesbrasil4976)  
 
-
+<div>
+  <a href="">
+  <img height="180em" src=""/>
+    <img height="180em" src=""/>
+  </a>
+ </div
 ![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-franco1983&show_icons=true&theme=dracula)
 
 ## Minhas tecnologias 
