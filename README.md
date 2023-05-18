@@ -10,15 +10,15 @@ Meu objetivo é sempre buscar por desafios que me permitam crescer profissionalm
 
 Projeto Anna Bella
 https://www.youtube.com/watch?v=GTyIEyXpSa8&t=1084s
-<div>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jjonathanfranco/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jjonathan.franco/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-franco-87302b203/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@newoldgamesbrasil4976)  
-</div>
-<div>
+
+
 ![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-franco1983&show_icons=true&theme=dracula)
-</div>
+
 ## Minhas tecnologias 
 <div>
 <div style="display: inline_block"><br/>
